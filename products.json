@@ -1,0 +1,60 @@
+
+
+[
+    {
+    "id": 1001,
+    "name": "Wireless Mouse",
+    "price": 18.99,
+    "stock": 42,
+    "warehouse": 1,
+    "status": "active"
+},
+{
+    "id": 1002,
+    "name": "Mechanical Keyboard",
+    "price": 64.99,
+    "stock": 18,
+    "warehouse": 2,
+    "status": "active"
+},
+{
+    "id": 1003,
+    "name": "USB-C Hub",
+    "price": 29.99,
+    "stock": 35,
+    "warehouse": 1,
+    "status": "active"
+},
+{
+    "id": 1004,
+    "name": "Laptop Stand",
+    "price": 39.99,
+    "stock": 12,
+    "warehouse": 3,
+    "status": "low_stock"
+},
+{
+    "id": 1005,
+    "name": "Webcam",
+    "price": 54.99,
+    "stock": 25,
+    "warehouse": 2,
+    "status": "active"
+},
+{
+    "id": 1006,
+    "name": "Bluetooth Speaker",
+    "price": 44.99,
+    "stock": 30,
+    "warehouse": 4,
+   "status":"active"
+},
+    {
+        "id": 1007,
+        "name": "External SSD",
+        "price": 89.99,
+        "stock": 10,
+        "warehouse": 5,
+        "status": "low_stock"
+    }
+]
